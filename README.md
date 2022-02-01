@@ -6,7 +6,7 @@ Projekt to sklep internetowy, pozwalający administratorowi na zarządzanie zam�
 pozwalający dodawać przedmioty i wspomagający pracę firmy.
 
 Strona główna: <br>
-<img src="../Zyla303/WdPAI/blob/main/public/images/mdimages/1.PNG?raw=true"><br>
+<img src="/Zyla303/WdPAI/blob/main/public/images/mdimages/1.PNG?raw=true"><br>
 Sklep: <br>
 <img src="../Zyla303/WdPAI/blob/main/public/images/mdimages/2.PNG?raw=true"><br>
 Logowanie: <br>
